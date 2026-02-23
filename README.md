@@ -5,4 +5,4 @@ This is a two-phase Python pipeline that processes images of Arabic documents (P
 1. Classify the document type and extract raw text verbatim.
 2. Normalize the Arabic-Indic numbers and map the extracted text into a structured JSON schema.
 
-# for env activation: conda activate idocr
+
